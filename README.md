@@ -1,1 +1,1 @@
-# SamurAI
+# SamurAICoding2017
